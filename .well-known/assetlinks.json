@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.namazvakitleri.kurankible",
+    "sha256_cert_fingerprints": ["C0:90:BB:4F:55:74:CA:74:3E:BD:9B:3E:72:CF:28:2E:B0:23:72:30:77:E9:8A:0A:27:1F:D9:2A:13:37:29:2C"]
+  }
+}]
